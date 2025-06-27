@@ -1,0 +1,29 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build tools
+.mvn/
+mvnw
+mvnw.cmd
+
+# Outros
+*.tmp
+*.bak
+
+# Testes e status de build
+surefire-reports/
